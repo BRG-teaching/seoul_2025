@@ -21,7 +21,6 @@ boundary_vertices = mesh.vertices_on_boundary()
 
 # Iterate over the vertices
 for vertex_key in mesh.vertices():
-
     # If the vertex is a boundary vertex, color it red
     if vertex_key in boundary_vertices:
         point = mesh.vertex_point(vertex_key)
@@ -49,7 +48,7 @@ for vertex_key in mesh.vertices():
         mesh.vertex_attribute(vertex_key, "curvature", vertex_curvature)
 
 # Dump the vertex attributes to a JSON file
-filepath = pathlib.Path(__file__).parent.parent / "data" / "mesh_attributes1.json"
+filepath = pathlib.Path(__file__).parent / "mesh_attributes1.json"
 json_dump(mesh, filepath)
 
 # Draw the scene

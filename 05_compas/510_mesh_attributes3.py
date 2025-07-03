@@ -7,7 +7,7 @@ from compas.scene import Scene
 from compas.colors import Color
 from compas import json_load
 
-filepath = pathlib.Path(__file__).parent.parent / "data" / "mesh_attributes2.json"
+filepath = pathlib.Path(__file__).parent / "mesh_attributes2.json"
 mesh = json_load(filepath)
 
 scene = Scene()
@@ -16,7 +16,6 @@ scene.add(mesh)
 
 # Iterate over the vertices
 for vertex_key in mesh.vertices():
-
     # Get the sphere
     sphere = mesh.vertex_attribute(vertex_key, "sphere")
 

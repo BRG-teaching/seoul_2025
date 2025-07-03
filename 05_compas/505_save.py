@@ -10,7 +10,7 @@ import pathlib
 box = Box(1)
 
 # Define the file path to save the box to JSON
-filepath = pathlib.Path(__file__).parent.parent / "data" / "box.json"
+filepath = pathlib.Path(__file__).parent / "box.json"
 
 # Save the box to JSON file
 json_dump(box, filepath)

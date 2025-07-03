@@ -9,7 +9,7 @@ from compas.colors import Color
 from compas import json_load
 from compas import json_dump
 
-filepath = pathlib.Path(__file__).parent.parent / "data" / "mesh_attributes1.json"
+filepath = pathlib.Path(__file__).parent / "mesh_attributes1.json"
 mesh = json_load(filepath)
 
 scene = Scene()
@@ -18,7 +18,6 @@ scene.add(mesh)
 
 # Iterate over the vertices
 for vertex_key in mesh.vertices():
-
     # Get the curvature of the vertex
     curvature = mesh.vertex_attribute(vertex_key, "curvature")
 
@@ -35,5 +34,5 @@ for vertex_key in mesh.vertices():
 scene.draw()
 
 # Dump the mesh to a JSON file
-filepath = pathlib.Path(__file__).parent.parent / "data" / "mesh_attributes2.json"
+filepath = pathlib.Path(__file__).parent / "mesh_attributes2.json"
 json_dump(mesh, filepath)
