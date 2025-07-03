@@ -1,6 +1,6 @@
 #! python 3
-# r: compas_model, Tessagon, compas_cgal==0.9.1, compas_libigl==0.7.4
-# venv: brg-csd
+# r: compas, compas_cgal==0.9.1, compas_libigl==0.7.4, tessagon
+# venv: aa
 
 from compas.datastructures import Mesh
 from compas.geometry import Polygon
@@ -18,6 +18,7 @@ from compas_rhino.conversions import curveobject_to_compas
 
 # mesh from rhino
 guid = select_mesh()
+print(guid)
 mesh = meshobject_to_compas(guid)
 
 # points form rhino

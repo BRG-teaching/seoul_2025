@@ -1,1 +1,1 @@
-{"dtype": "compas.geometry/Box", "data": {"xsize": 1.0, "ysize": 1.0, "zsize": 1.0, "frame": {"point": [0.0, 0.0, 0.0], "xaxis": [1.0, 0.0, 0.0], "yaxis": [0.0, 1.0, 0.0]}}, "guid": "d793bfba-4161-4c8c-a588-65b0bda9fcb1"}
+{"dtype": "compas.geometry/Box", "data": {"xsize": 1.0, "ysize": 1.0, "zsize": 1.0, "frame": {"point": [0.0, 0.0, 0.0], "xaxis": [1.0, 0.0, 0.0], "yaxis": [0.0, 1.0, 0.0]}}, "guid": "ddf5aa08-45d5-42b0-8e5c-7bd60864090d"}

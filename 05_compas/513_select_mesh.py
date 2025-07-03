@@ -1,6 +1,6 @@
 #! python 3
-# r: compas_model, Tessagon, compas_cgal==0.9.1, compas_libigl==0.7.4
-# venv: brg-csd
+# r: compas, compas_cgal==0.9.1, compas_libigl==0.7.4, tessagon
+# venv: aa
 
 import compas
 from compas_rhino.objects import select_mesh
