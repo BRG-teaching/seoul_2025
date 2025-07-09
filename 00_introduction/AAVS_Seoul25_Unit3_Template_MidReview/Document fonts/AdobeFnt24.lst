@@ -1,0 +1,163 @@
+%!Adobe-FontList 1.24
+%Locale:0x807
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-Bold
+FamilyName:Kozuka Gothic Pr6N
+StyleName:B
+FullName:Kozuka Gothic Pr6N B
+MenuName:Kozuka Gothic Pr6N B
+StyleBits:2
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:B
+FullNameNative:小塚ゴシック Pr6N B
+WritingScript:Japanese
+OutlineFileName:C:\brg\workhshops\seoul_2025\00_introduction\AAVS_Seoul25_Unit3_Template_MidReview\Document fonts\KozGoPr6N-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:5629624
+FileModTime:1751934120
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kozuka Gothic Pr6N B
+NameArray:1,Mac,4,小塚ゴシック Pr6N B
+NameArray:0,Win,1,Kozuka Gothic Pr6N B
+NameArray:0,Win,16,Kozuka Gothic Pr6N
+NameArray:1,Win,1,小塚ゴシック Pr6N B
+NameArray:1,Win,16,小塚ゴシック Pr6N
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-ExtraLight
+FamilyName:Kozuka Gothic Pr6N
+StyleName:EL
+FullName:Kozuka Gothic Pr6N EL
+MenuName:Kozuka Gothic Pr6N EL
+StyleBits:0
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:EL
+FullNameNative:小塚ゴシック Pr6N EL
+WritingScript:Japanese
+OutlineFileName:C:\brg\workhshops\seoul_2025\00_introduction\AAVS_Seoul25_Unit3_Template_MidReview\Document fonts\KozGoPr6N-ExtraLight.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:5051244
+FileModTime:1751934120
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kozuka Gothic Pr6N EL
+NameArray:1,Mac,4,小塚ゴシック Pr6N EL
+NameArray:0,Win,1,Kozuka Gothic Pr6N EL
+NameArray:0,Win,16,Kozuka Gothic Pr6N
+NameArray:1,Win,1,小塚ゴシック Pr6N EL
+NameArray:1,Win,16,小塚ゴシック Pr6N
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-Heavy
+FamilyName:Kozuka Gothic Pr6N
+StyleName:H
+FullName:Kozuka Gothic Pr6N H
+MenuName:Kozuka Gothic Pr6N H
+StyleBits:2
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:H
+FullNameNative:小塚ゴシック Pr6N H
+WritingScript:Japanese
+OutlineFileName:C:\brg\workhshops\seoul_2025\00_introduction\AAVS_Seoul25_Unit3_Template_MidReview\Document fonts\KozGoPr6N-Heavy.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:5787276
+FileModTime:1751934120
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kozuka Gothic Pr6N H
+NameArray:1,Mac,4,小塚ゴシック Pr6N H
+NameArray:0,Win,1,Kozuka Gothic Pr6N H
+NameArray:0,Win,16,Kozuka Gothic Pr6N
+NameArray:1,Win,1,小塚ゴシック Pr6N H
+NameArray:1,Win,16,小塚ゴシック Pr6N
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-Light
+FamilyName:Kozuka Gothic Pr6N
+StyleName:L
+FullName:Kozuka Gothic Pr6N L
+MenuName:Kozuka Gothic Pr6N L
+StyleBits:0
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:L
+FullNameNative:小塚ゴシック Pr6N L
+WritingScript:Japanese
+OutlineFileName:C:\brg\workhshops\seoul_2025\00_introduction\AAVS_Seoul25_Unit3_Template_MidReview\Document fonts\KozGoPr6N-Light.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:5427856
+FileModTime:1751934120
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kozuka Gothic Pr6N L
+NameArray:1,Mac,4,小塚ゴシック Pr6N L
+NameArray:0,Win,1,Kozuka Gothic Pr6N L
+NameArray:0,Win,16,Kozuka Gothic Pr6N
+NameArray:1,Win,1,小塚ゴシック Pr6N L
+NameArray:1,Win,16,小塚ゴシック Pr6N
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-Regular
+FamilyName:Kozuka Gothic Pr6N
+StyleName:R
+FullName:Kozuka Gothic Pr6N R
+MenuName:Kozuka Gothic Pr6N R
+StyleBits:0
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:R
+FullNameNative:小塚ゴシック Pr6N R
+WritingScript:Japanese
+OutlineFileName:C:\brg\workhshops\seoul_2025\00_introduction\AAVS_Seoul25_Unit3_Template_MidReview\Document fonts\KozGoPr6N-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:5434724
+FileModTime:1751934120
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kozuka Gothic Pr6N R
+NameArray:1,Mac,4,小塚ゴシック Pr6N R
+NameArray:0,Win,1,Kozuka Gothic Pr6N R
+NameArray:0,Win,16,Kozuka Gothic Pr6N
+NameArray:1,Win,1,小塚ゴシック Pr6N R
+NameArray:1,Win,16,小塚ゴシック Pr6N
+%EndFont
+

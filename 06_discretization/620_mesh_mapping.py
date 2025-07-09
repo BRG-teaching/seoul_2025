@@ -18,7 +18,6 @@ from compas_rhino.conversions import curveobject_to_compas
 
 # mesh from rhino
 guid = select_mesh()
-print(guid)
 mesh = meshobject_to_compas(guid)
 
 # points form rhino

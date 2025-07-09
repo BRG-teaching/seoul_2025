@@ -11,23 +11,9 @@ from compas.scene import Scene
 # FormFinder Mesh
 # =============================================================================
 
-# session = compas.json_load(pathlib.Path(__file__).parent / "FormFinder.json")
-# scene = session["scene"]
-# mesh = scene.find_by_name("CableMesh").mesh
-
-# points = []
-# for v in mesh.vertices():
-#     if mesh.vertex_attribute(v, "is_support"):
-#         points.append(mesh.vertex_point(v))
-
-# V, F = mesh.to_vertices_and_faces()
-# mesh = Mesh.from_vertices_and_faces(V, F)
-
-# =============================================================================
-# RhinoVault mesh
-# =============================================================================
-
-mesh = compas.json_load(pathlib.Path(__file__).parent /  "ThrustDiagram.json")
+session = compas.json_load(pathlib.Path(__file__).parent / "FormFinder.json")
+scene = session["scene"]
+mesh = scene.find_by_name("CableMesh").mesh
 
 points = []
 for v in mesh.vertices():
